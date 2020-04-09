@@ -1,1 +1,1 @@
-# Logistics-Regression-Model
+# Logistics-Regression-Model (Telco case)
